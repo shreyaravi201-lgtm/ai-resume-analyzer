@@ -1,0 +1,51 @@
+skill_name,category,aliases
+Python,Programming,python
+Java,Programming,java
+C,Programming,c
+C++,Programming,c++;cpp;c plus plus
+C#,Programming,c#;c-sharp;c sharp
+JavaScript,Programming,javascript;js
+TypeScript,Programming,typescript;ts
+HTML,Web,html;html5
+CSS,Web,css;css3
+React,Web,react;react.js;reactjs
+Angular,Web,angular;angularjs;angular.js
+Node.js,Web,node.js;nodejs;node
+FastAPI,Web,fastapi;fast api
+Flask,Web,flask
+Django,Web,django
+SQL,Database,sql;structured query language
+MySQL,Database,mysql
+PostgreSQL,Database,postgresql;postgres
+MongoDB,Database,mongodb;mongo
+SQLite,Database,sqlite
+Redis,Database,redis
+Pandas,Data,pandas
+NumPy,Data,numpy
+Excel,Data,excel;microsoft excel;ms excel
+Power BI,Data,power bi;powerbi
+Tableau,Data,tableau
+Machine Learning,Machine Learning,machine learning;ml
+Deep Learning,Machine Learning,deep learning;deeplearning;dl
+Scikit-learn,Machine Learning,scikit-learn;sklearn;scikit learn
+TensorFlow,Machine Learning,tensorflow;tf
+PyTorch,Machine Learning,pytorch
+XGBoost,Machine Learning,xgboost;xgb
+NLP,AI/NLP,nlp;natural language processing
+Transformers,AI/NLP,transformers;transformer;bert;gpt
+Hugging Face,AI/NLP,hugging face;huggingface;hf
+LLM,AI/NLP,llm;large language model;large language models
+RAG,AI/NLP,rag;retrieval augmented generation
+LangChain,AI/NLP,langchain
+OpenCV,Computer Vision,opencv;open cv;computer vision
+CNN,Computer Vision,cnn;convolutional neural network;convolutional neural networks
+YOLO,Computer Vision,yolo;you only look once
+AWS,Cloud/DevOps,aws;amazon web services
+Azure,Cloud/DevOps,azure;microsoft azure
+GCP,Cloud/DevOps,gcp;google cloud;google cloud platform
+Docker,Cloud/DevOps,docker
+Kubernetes,Cloud/DevOps,kubernetes;k8s
+Git,Cloud/DevOps,git
+GitHub,Cloud/DevOps,github
+CI/CD,Cloud/DevOps,ci/cd;cicd;continuous integration;continuous deployment
+MLflow,MLOps,mlflow;ml flow

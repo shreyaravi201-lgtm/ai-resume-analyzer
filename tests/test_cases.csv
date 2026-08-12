@@ -1,0 +1,4 @@
+resume_name,expected_top_role,expected_skills
+data_analyst_resume.docx,Data Analyst,Python;SQL;Pandas;NumPy;Excel;Power BI;Tableau;Git;GitHub
+ml_engineer_resume.pdf,Machine Learning Engineer,Python;Scikit-learn;FastAPI;SQL;Pandas;NumPy;Docker;MLflow;AWS;Git;GitHub;CI/CD;Machine Learning
+nlp_engineer_resume.pdf,NLP Engineer,Python;NLP;Transformers;Hugging Face;Deep Learning;PyTorch;SQL;PostgreSQL;Git;GitHub;Docker;FastAPI
